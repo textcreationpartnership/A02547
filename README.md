@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-An holy panegyrick a sermon preached at Paules Crosse vpon the anniuersarie solemnitie of the happie
+
+1. TO THE RIGHT Honorable, Sir IOHN SVVINERTON, Knight, Lord Maior of the Citie of London, All grace and happineſſe.
+
 #####Body#####
-An holy panegyrick a sermon preached at Paules Crosse vpon the anniuersarie solemnitie of the happie
+
+1. AN HOLY Panegyrick.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
